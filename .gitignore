@@ -1,0 +1,13 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# IntelliJ local files
+/shelf/
+
+# Compiled Java files
+*.class
+
+# Build directories
+out/
+target/
